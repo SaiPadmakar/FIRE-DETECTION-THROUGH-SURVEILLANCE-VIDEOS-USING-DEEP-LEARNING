@@ -14,10 +14,10 @@ factory buildings. In order to overcome such accidents , we propose a new method
 Convolutional neural networks (RCNN).
 # Software Requirements:
 Operating System: Windows 7 , 8, 10 (64 bit) <br />
-Software: Python 3.7
-Tools: Anaconda (Jupyter Note Book IDE)
+Software: Python 3.7 <br />
+Tools: Anaconda (Jupyter Note Book IDE) <br />
 # Hardware Requirements:
-Hard Disk:500GB and Above
-RAM:4GB and Above
-Processor:I3 and Above
+Hard Disk:500GB and Above <br />
+RAM:4GB and Above <br />
+Processor:I3 and Above <br />
 Webcam
