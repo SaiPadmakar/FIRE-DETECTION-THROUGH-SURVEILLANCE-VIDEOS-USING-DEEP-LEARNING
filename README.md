@@ -12,3 +12,12 @@ acknowledgment system Recently lots of fire related accidents has occurred due t
 Surveillance or unable to cover those uncertain regions like restricted areas in forest or any
 factory buildings. In order to overcome such accidents , we propose a new method using
 Convolutional neural networks (RCNN).
+# Software Requirements:
+Operating System: Windows 7 , 8, 10 (64 bit)
+Software: Python 3.7
+Tools: Anaconda (Jupyter Note Book IDE)
+# Hardware Requirements:
+Hard Disk:500GB and Above
+RAM:4GB and Above
+Processor:I3 and Above
+Webcam
